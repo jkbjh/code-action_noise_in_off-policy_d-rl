@@ -1,0 +1,10 @@
+pip
+colorednoise
+stable-baselines3==1.0
+scipy
+sklearn
+sb3-contrib==1.0
+PyYAML
+pybullet
+-e git+https://github.com/benelot/pybullet-gym.git@ec9e87459dd76d92fe3e59ee4417e5a665504f62#egg=pybulletgym
+tensorboard
