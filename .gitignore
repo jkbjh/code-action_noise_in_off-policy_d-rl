@@ -1,0 +1,9 @@
+figures/*
+tblog/*
+*/__pycache__/*
+*.pyc
+*~
+*tfevents*
+ranges.json
+output
+.python-version
